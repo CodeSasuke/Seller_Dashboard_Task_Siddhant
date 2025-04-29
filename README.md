@@ -45,14 +45,5 @@ A simple and modern seller dashboard to manage product listings.
 | :---------------: | :-------------------: |
 | ![Add Product Screenshot](./screenshots/add-product.png) | ![Filter and Sort Screenshot](./screenshots/filter-sort.png) |
 
-> **Note:** Place your screenshots inside a `screenshots/` folder in the project root.
-
----
-
-## 📄 Notes
-
-- Built with modern React practices.
-- Easily extendable for real-world backend integration.
-- Designed for simplicity and quick setup.
 
 ---
